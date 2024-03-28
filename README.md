@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I
+- ⚡ Fun fact: I've been to 37 states :)
 
 <!---
 TheKornOnTheKob/TheKornOnTheKob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
